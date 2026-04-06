@@ -1,0 +1,306 @@
+Transaction ID,Sale_Date,Sale__Time ,Cust ID, Customer Name,Product_ID,Product Name,Store-ID,Store_City,Emp_ID,Employee_Name,Qty,Unit_Price
+T00001,2023-12-05,13:30:00,C002,Bob Johnson,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,5,1200.0
+T00002,2023-03-09,09:14:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,5,25.5
+T00003,10/22/2023,14:32:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E03,Mike Ross,5,300.0
+T00004,2023-06-08,10:54:00,C003,Charlie Brown,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,2,300.0
+T00005,2023-03-04,16:22:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E03,Mike Ross,5,25.5
+T00006,12/11/2023,10:45:00,C005,Evan Wright,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,1,100.0
+T00007,2023-02-25,10:22:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E04,Rachel Green,4,25.5
+T00008,2023-11-22,12:39:00,C002,Bob Johnson,P103,USB-C Monitor,S1,New York,E02,Jane Roe,2,300.0
+T00009,2023-09-08,16:40:00,C003,Charlie Brown,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,-1,100.0
+T00010,2023-12-07,13:57:00,C004,  Diana Prince ,P101,Wireless Mouse,S1,New York,E01,John Doe,2,25.5
+T00011,2023-09-24,11:30:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,4,1200.0
+T00011,2023-09-24,11:30:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,4,1200.0
+T00012,2023-06-02,17:30:00,C002,Bob Johnson,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,3,100.0
+T00013,2023-01-09,16:43:00,,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,2,$25.5
+T00014,2023-01-13,14:49:00,C005,  Evan Wright ,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,3,1200.0
+T00015,2023-02-13,10:57:00,C002,Bob Johnson,P102,Mechanical Keyboard,S3,Chicago,E03,Mike Ross,5,100.0
+T00016,2023-01-11,11:33:00,C003,Charlie Brown,P101,Wireless Mouse,S2,San Francisco,E03,Mike Ross,4,25.5
+T00017,2023-01-20,14:11:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E01,John Doe,4,300.0
+T00018,2023-01-01,12:46:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,2,$1200.0
+T00019,2023-02-16,09:05:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,4,100.0
+T00020,2023-02-22,11:27:00,C003,Charlie Brown,P100,Laptop Pro 15,S3,Chicago,E03,Mike Ross,3,1200.0
+T00021,2023-06-05,18:53:00,C002,Bob Johnson,P103,USB-C Monitor,S3,Chicago,E04,Rachel Green,3,300.0
+T00022,11/21/2023,11:43:00,C001,Alice Smith,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,5,25.5
+T00023,2023-10-29,15:34:00,C004,Diana Prince,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,4,100.0
+T00024,2023-03-30,12:17:00,C003,Charlie Brown,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,2,1200.0
+T00025,2023-10-26,15:55:00,C001,Alice Smith,P103,USB-C Monitor,S1,New York,E01,John Doe,1,300.0
+T00026,2023-10-23,16:04:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,2,100.0
+T00027,2023-02-25,11:39:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E04,Rachel Green,4,
+T00028,2023-11-09,16:14:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E03,Mike Ross,1,25.5
+T00029,2023-01-07,13:25:00,,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E03,Mike Ross,5,1200.0
+T00030,2023-05-26,12:32:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E02,Jane Roe,5,25.5
+T00031,2023-10-04,18:51:00,C005,Evan Wright,P103,USB-C Monitor,S1,New York,E03,Mike Ross,3,300.0
+T00032,2023-06-28,09:21:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E04,Rachel Green,3,25.5
+T00033,2023-12-23,18:43:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E01,John Doe,5,25.5
+T00034,2023-10-16,17:59:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,5,1200.0
+T00035,2023-03-10,15:12:00,C003,Charlie Brown,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,2,$1200.0
+T00036,2023-12-21,09:35:00,C003,charlie brown,P102,Mechanical Keyboard,S3,Chicago,E03,Mike Ross,4,100.0
+T00037,2023-03-17,11:15:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,one,25.5
+T00038,01/22/2023,11:56:00,C002,Bob Johnson,P103,USB-C Monitor,S2,San Francisco,E03,Mike Ross,3,300.0
+T00039,2023-01-14,12:22:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,1,100.0
+T00040,2023-01-05,14:17:00,C005,  Evan Wright ,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,5,1200.0
+T00041,27-09-2023,13:42:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E01,John Doe,4,300.0
+T00042,2023-03-29,14:02:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E03,Mike Ross,5,100.0
+T00043,15-10-2023,12:51:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,5,
+T00044,2023-10-23,13:27:00,C004,  Diana Prince ,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,4,100.0
+T00045,2023-06-23,16:01:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,1,25.5
+T00046,23-10-2023,13:36:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,1,$25.5
+T00047,2023-11-24,13:39:00,C005,Evan Wright,P103,USB-C Monitor,S1,New York,E04,Rachel Green,1,$300.0
+T00048,28-07-2023,11:51:00,C004,diana prince,P100,Laptop Pro 15,S1,New York,E01,John Doe,5,1200.0
+T00049,2023-04-05,15:02:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,3,1200.0
+T00049,2023-04-05,15:02:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,3,1200.0
+T00050,2023-07-12,09:01:00,C002,Bob Johnson,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,3,1200.0
+T00051,2023-04-10,15:00:00,C001,Alice Smith,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,4,100.0
+T00052,2023-04-23,16:45:00,C001,Alice Smith,P103,USB-C Monitor,S2,San Francisco,E02,Jane Roe,3,300.0
+T00053,2023-01-20,15:16:00,C005,Evan Wright,P103,USB-C Monitor,S1,New York,E01,John Doe,4,300.0
+T00054,2023-02-08,18:48:00,C001,  alice smith ,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,5,25.5
+T00055,2023-07-24,13:18:00,C002,Bob Johnson,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,3,25.5
+T00056,2023-01-28,11:38:00,,  Evan Wright ,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,2,100.0
+T00057,02/18/2023,14:08:00,C001,Alice Smith,P103,USB-C Monitor,S3,chicago,E01,John Doe,1,300.0
+T00058,04/30/2023,18:56:00,,Diana Prince,P101,Wireless Mouse,S1,New York,E04,Rachel Green,1,25.5
+T00059,23-01-2023,18:46:00,C003,Charlie Brown,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,4,1200.0
+T00060,2023-01-22,17:06:00,C001,Alice Smith,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,2,100.0
+T00061,25-10-2023,17:51:00,C004,Diana Prince,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,1,100.0
+T00062,2023-06-22,17:21:00,C002,  Bob Johnson ,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,2,1200.0
+T00063,2023-10-25,18:23:00,C003,Charlie Brown,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,1,100.0
+T00064,2023-08-29,17:34:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E01,John Doe,2,1200.0
+T00065,2023-12-05,12:48:00,C004,Diana Prince,P103,USB-C Monitor,S1,New York,E01,John Doe,1,300.0
+T00066,09-01-2023,17:55:00,C001,Alice Smith,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,3,100.0
+T00067,2023-04-09,14:56:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E02,Jane Roe,3,25.5
+T00068,2023-05-15,11:08:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,5,1200.0
+T00069,2023-11-26,13:25:00,C002,  Bob Johnson ,P101,Wireless Mouse,S1,New York,E01,John Doe,1,25.5
+T00070,03-11-2023,12:14:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,5,$25.5
+T00071,2023-01-06,13:48:00,C002,Bob Johnson,P100,Laptop Pro 15,S1,New York,E01,John Doe,-2,1200.0
+T00072,2023-01-17,09:54:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E02,Jane Roe,2,100.0
+T00073,2023-08-24,16:35:00,C002,Bob Johnson,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,4,100.0
+T00074,25-12-2023,15:51:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,2,
+T00075,2023-09-04,10:34:00,C005,Evan Wright,P103,USB-C Monitor,S1,New York,E04,Rachel Green,1,300.0
+T00076,2023-03-21,11:23:00,C002,Bob Johnson,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,3,25.5
+T00077,2023-02-22,13:30:00,C003,Charlie Brown,P103,USB-C Monitor,S2,San Francisco,E04,Rachel Green,5,300.0
+T00078,2023-10-04,09:28:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,2,25.5
+T00079,2023-03-05,09:51:00,C005,Evan Wright,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,2,100.0
+T00080,2023-12-04,09:51:00,C001,Alice Smith,P103,USB-C Monitor,S2,San Francisco,E04,Rachel Green,1,300.0
+T00081,2023-03-13,16:48:00,C002,Bob Johnson,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,5,100.0
+T00082,01-04-2023,11:56:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,2,1200.0
+T00083,2023-06-14,11:40:00,,Alice Smith,P102,Mechanical Keyboard,S2,San Francisco,E03,Mike Ross,2,100.0
+T00084,2023-11-02,15:10:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E01,John Doe,3,25.5
+T00085,2023-04-13,15:46:00,C002,Bob Johnson,P103,USB-C Monitor,S3,Chicago,E04,Rachel Green,3,300.0
+T00086,07/30/2023,14:51:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,5,100.0
+T00087,2023-08-23,09:29:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E03,Mike Ross,3,25.5
+T00088,2023-03-14,11:44:00,C003,Charlie Brown,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,5,100.0
+T00089,2023-08-14,11:28:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,2,
+T00090,2023-12-20,10:01:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E02,Jane Roe,4,25.5
+T00091,2023-07-21,13:19:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,1,25.5
+T00092,2023-04-23,14:27:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,1,1200.0
+T00093,2023-08-21,14:06:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E01,John Doe,2,25.5
+T00094,2023-01-25,11:13:00,C002,Bob Johnson,P100,Laptop Pro 15,S2,San Francisco,E01,John Doe,3,
+T00095,2023-04-01,13:57:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,3,100.0
+T00096,2023-07-09,09:30:00,C004,diana prince,P101,Wireless Mouse,S1,New York,E03,Mike Ross,1,$25.5
+T00097,2023-11-25,17:20:00,C004,Diana Prince,P102,Mechanical Keyboard,S3,chicago,E03,Mike Ross,5,$100.0
+T00098,2023-08-01,14:11:00,C003,Charlie Brown,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,1,100.0
+T00099,2023-05-31,10:58:00,C005,  Evan Wright ,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,5,100.0
+T00100,2023-10-16,18:19:00,C002,Bob Johnson,P103,USB-C Monitor,S3,Chicago,E03,Mike Ross,4,300.0
+T00101,2023-11-03,13:19:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,1,25.5
+T00102,2023-03-18,18:00:00,C001,Alice Smith,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,5,100.0
+T00103,2023-01-16,15:20:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E04,Rachel Green,1,
+T00104,2023-02-05,09:10:00,C005,  Evan Wright ,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,4,1200.0
+T00105,27-01-2023,16:11:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,3,100.0
+T00106,2023-09-27,18:15:00,C003,Charlie Brown,P103,USB-C Monitor,S3,Chicago,E01,John Doe,1,300.0
+T00107,2023-09-20,18:59:00,C002,bob johnson,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,5,100.0
+T00108,09/28/2023,10:55:00,C004,Diana Prince,P103,USB-C Monitor,S2,San Francisco,E04,Rachel Green,4,300.0
+T00109,2023-12-11,17:29:00,C003,Charlie Brown,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,2,1200.0
+T00110,2023-09-20,16:30:00,C004,  Diana Prince ,P103,USB-C Monitor,S3,Chicago,E01,John Doe,5,300.0
+T00111,2023-11-11,11:30:00,C004,Diana Prince,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,-5,1200.0
+T00112,2023-07-18,18:14:00,C001,Alice Smith,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,4,
+T00113,2023-09-16,15:47:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,1,25.5
+T00114,2023-01-27,14:38:00,,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,1,25.5
+T00115,2023-10-03,11:38:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,3,25.5
+T00116,2023-12-08,12:09:00,C003,Charlie Brown,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,5,1200.0
+T00117,04-10-2023,15:17:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E01,John Doe,5,$25.5
+T00118,2023-03-13,11:30:00,C004,Diana Prince,P100,Laptop Pro 15,S2,San Francisco,E01,John Doe,3,$1200.0
+T00119,04/06/2023,12:38:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E04,Rachel Green,1,
+T00120,2023-08-16,09:52:00,C004,Diana Prince,P103,USB-C Monitor,S1,New York,E02,Jane Roe,5,300.0
+T00121,2023-02-09,17:08:00,C005,Evan Wright,P100,Laptop Pro 15,S1,New York,E04,Rachel Green,5,1200.0
+T00122,2023-06-13,11:13:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E04,Rachel Green,3,1200.0
+T00123,04-12-2023,09:25:00,C001,Alice Smith,P103,USB-C Monitor,S1,New York,E03,Mike Ross,4,300.0
+T00124,2023-09-24,09:39:00,C003,Charlie Brown,P103,USB-C Monitor,S2,San Francisco,E04,Rachel Green,5,300.0
+T00125,2023-05-15,09:45:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,1,1200.0
+T00126,16-06-2023,14:33:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E02,Jane Roe,one,25.5
+T00127,2023-11-26,10:09:00,C003,Charlie Brown,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,2,100.0
+T00128,2023-06-21,16:19:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,1,1200.0
+T00129,2023-01-16,13:35:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E04,Rachel Green,-4,1200.0
+T00130,30-03-2023,13:47:00,C002,Bob Johnson,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,2,100.0
+T00131,2023-09-26,16:14:00,C002,bob johnson,P103,USB-C Monitor,S1,New York,E03,Mike Ross,2,300.0
+T00132,2023-03-20,15:30:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,1,1200.0
+T00133,05-08-2023,09:57:00,C002,bob johnson,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,3,$100.0
+T00134,2023-04-16,10:54:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,3,1200.0
+T00135,2023-01-23,14:51:00,C005,Evan Wright,P103,USB-C Monitor,S3,chicago,E04,Rachel Green,3,300.0
+T00136,2023-06-17,11:05:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E01,John Doe,2,1200.0
+T00137,2023-07-11,18:27:00,C001,Alice Smith,P101,Wireless Mouse,S1,New York,E04,Rachel Green,5,25.5
+T00138,2023-01-14,09:11:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,5,1200.0
+T00139,2023-07-25,12:10:00,C001,Alice Smith,P101,Wireless Mouse,S1,New York,E01,John Doe,1,25.5
+T00139,2023-07-25,12:10:00,C001,Alice Smith,P101,Wireless Mouse,S1,New York,E01,John Doe,1,25.5
+T00140,08/01/2023,11:07:00,C003,Charlie Brown,P103,USB-C Monitor,S1,New York,E01,John Doe,1,300.0
+T00140,08/01/2023,11:07:00,C003,Charlie Brown,P103,USB-C Monitor,S1,New York,E01,John Doe,1,300.0
+T00141,2023-01-05,09:24:00,C003,Charlie Brown,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,1,100.0
+T00142,07-07-2023,10:39:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E02,Jane Roe,1,25.5
+T00143,2023-07-28,09:01:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,4,1200.0
+T00144,2023-03-26,12:01:00,C004,Diana Prince,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,3,100.0
+T00145,2023-04-13,10:17:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,5,1200.0
+T00146,27-08-2023,17:08:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E02,Jane Roe,1,$25.5
+T00147,2023-11-07,12:44:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E01,John Doe,4,25.5
+T00148,2023-07-07,16:53:00,C002,Bob Johnson,P103,USB-C Monitor,S1,New York,E03,Mike Ross,2,300.0
+T00149,2023-06-24,18:50:00,C001,Alice Smith,P101,Wireless Mouse,S3,Chicago,E03,Mike Ross,5,25.5
+T00150,2023-08-07,09:11:00,C001,Alice Smith,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,one,300.0
+T00151,2023-04-08,10:31:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E01,John Doe,5,25.5
+T00152,2023-08-07,11:37:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,two,100.0
+T00153,2023-02-01,18:06:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E03,Mike Ross,4,25.5
+T00154,2023-10-16,13:41:00,C005,Evan Wright,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,-3,100.0
+T00155,2023-01-21,18:54:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,2,1200.0
+T00156,2023-10-25,14:18:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,3,1200.0
+T00157,2023-07-25,11:16:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E04,Rachel Green,2,25.5
+T00158,2023-05-23,16:33:00,C003,Charlie Brown,P103,USB-C Monitor,S2,San Francisco,E01,John Doe,2,300.0
+T00159,10-04-2023,10:26:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E01,John Doe,3,25.5
+T00160,2023-07-15,18:01:00,C001,Alice Smith,P101,Wireless Mouse,S1,New York,E01,John Doe,3,25.5
+T00161,2023-08-23,18:25:00,C003,  Charlie Brown ,P100,Laptop Pro 15,S3,Chicago,E03,Mike Ross,4,1200.0
+T00162,2023-12-10,12:34:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E01,John Doe,3,1200.0
+T00163,03/24/2023,18:28:00,C004,Diana Prince,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,3,$100.0
+T00164,2023-10-14,14:29:00,C004,Diana Prince,P102,Mechanical Keyboard,S2,san francisco,E03,Mike Ross,one,100.0
+T00165,2023-12-17,14:04:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E04,Rachel Green,5,1200.0
+T00166,2023-02-26,11:29:00,C005,evan wright,P103,USB-C Monitor,S2,San Francisco,E01,John Doe,2,300.0
+T00167,2023-09-19,10:03:00,C005,Evan Wright,P103,USB-C Monitor,S3,Chicago,E03,Mike Ross,1,300.0
+T00168,2023-08-28,13:59:00,C005,Evan Wright,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,5,300.0
+T00169,2023-05-16,16:46:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E03,Mike Ross,4,25.5
+T00170,12/06/2023,17:16:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,1,25.5
+T00171,2023-11-04,10:45:00,C005,Evan Wright,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,1,1200.0
+T00172,2023-08-30,09:28:00,C001,Alice Smith,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,3,$100.0
+T00173,2023-06-07,13:11:00,C001,alice smith,P101,Wireless Mouse,S2,San Francisco,E03,Mike Ross,1,25.5
+T00174,2023-02-21,12:50:00,C002,Bob Johnson,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,5,25.5
+T00175,2023-04-11,12:34:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E01,John Doe,5,25.5
+T00176,2023-11-05,13:04:00,C005,Evan Wright,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,5,1200.0
+T00177,2023-06-27,12:08:00,C005,Evan Wright,P103,USB-C Monitor,S3,Chicago,E01,John Doe,5,300.0
+T00178,2023-02-21,10:49:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E03,Mike Ross,1,$25.5
+T00179,10-04-2023,09:44:00,C002,Bob Johnson,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,2,300.0
+T00180,09/09/2023,14:08:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,4,25.5
+T00181,2023-07-15,11:55:00,C002,Bob Johnson,P103,USB-C Monitor,S3,chicago,E03,Mike Ross,4,300.0
+T00182,2023-11-15,16:36:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,5,$1200.0
+T00183,2023-09-07,17:11:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E03,Mike Ross,-5,1200.0
+T00184,2023-11-23,11:35:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,3,1200.0
+T00185,2023-08-28,15:39:00,C004,Diana Prince,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,2,$100.0
+T00186,2023-03-06,16:16:00,C004,Diana Prince,P100,Laptop Pro 15,S3,chicago,E04,Rachel Green,4,1200.0
+T00187,2023-04-03,10:35:00,C002,Bob Johnson,P103,USB-C Monitor,S1,New York,E02,Jane Roe,1,300.0
+T00188,2023-05-16,14:13:00,C003,Charlie Brown,P100,Laptop Pro 15,S1,new york,E03,Mike Ross,4,1200.0
+T00189,2023-01-18,14:24:00,C004,Diana Prince,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,5,100.0
+T00190,2023-06-15,15:04:00,C003,Charlie Brown,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,5,100.0
+T00191,2023-01-03,17:32:00,C001,Alice Smith,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,3,25.5
+T00192,2023-02-11,09:59:00,C003,Charlie Brown,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,2,100.0
+T00193,2023-11-16,11:04:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,1,100.0
+T00194,2023-09-05,11:15:00,C002,Bob Johnson,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,5,100.0
+T00195,26-06-2023,09:51:00,C005,Evan Wright,P103,USB-C Monitor,S2,san francisco,E02,Jane Roe,4,300.0
+T00196,2023-02-12,15:49:00,C002,Bob Johnson,P101,Wireless Mouse,S2,San Francisco,E04,Rachel Green,4,$25.5
+T00197,2023-09-15,12:19:00,C003,Charlie Brown,P103,USB-C Monitor,S2,San Francisco,E03,Mike Ross,2,300.0
+T00198,2023-01-06,18:34:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,4,1200.0
+T00199,05/31/2023,09:12:00,C002,Bob Johnson,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,-3,$25.5
+T00199,05/31/2023,09:12:00,C002,Bob Johnson,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,-3,$25.5
+T00200,2023-01-17,13:28:00,C003,Charlie Brown,P103,USB-C Monitor,S3,Chicago,E01,John Doe,4,300.0
+T00201,2023-06-04,09:49:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,2,$1200.0
+T00202,2023-12-13,14:45:00,C004,Diana Prince,P103,USB-C Monitor,S1,New York,E03,Mike Ross,one,300.0
+T00203,2023-09-16,13:40:00,C002,Bob Johnson,P101,Wireless Mouse,S3,Chicago,E02,Jane Roe,2,25.5
+T00204,2023-04-20,09:55:00,C004,Diana Prince,P100,Laptop Pro 15,S2,San Francisco,E02,Jane Roe,1,1200.0
+T00205,10/17/2023,17:19:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,5,1200.0
+T00206,2023-10-07,15:30:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E02,Jane Roe,4,$25.5
+T00207,2023-01-11,18:32:00,C001,Alice Smith,P101,Wireless Mouse,S2,San Francisco,E01,John Doe,-4,25.5
+T00208,2023-12-29,11:36:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E02,Jane Roe,2,$25.5
+T00209,2023-05-27,14:10:00,C003,Charlie Brown,P101,Wireless Mouse,S2,san francisco,E04,Rachel Green,1,25.5
+T00210,2023-05-24,10:12:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E01,John Doe,5,1200.0
+T00211,07-05-2023,14:49:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E02,Jane Roe,5,25.5
+T00212,2023-08-07,11:02:00,C005,  Evan Wright ,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,2,100.0
+T00213,2023-09-20,10:15:00,C005,Evan Wright,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,3,1200.0
+T00214,2023-04-11,09:30:00,C001,Alice Smith,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,5,300.0
+T00215,10/22/2023,13:41:00,C004,Diana Prince,P103,USB-C Monitor,S2,San Francisco,E02,Jane Roe,1,300.0
+T00216,2023-04-11,11:07:00,C003,charlie brown,P100,Laptop Pro 15,S1,New York,E04,Rachel Green,1,1200.0
+T00217,2023-04-17,18:27:00,C001,alice smith,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,1,
+T00218,2023-05-14,14:16:00,C003,Charlie Brown,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,5,25.5
+T00219,30-07-2023,18:18:00,C004,Diana Prince,P103,USB-C Monitor,S2,San Francisco,E01,John Doe,2,
+T00220,2023-05-17,13:37:00,C002,Bob Johnson,P101,Wireless Mouse,S1,new york,E01,John Doe,4,25.5
+T00221,04/09/2023,15:29:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E03,Mike Ross,5,25.5
+T00222,2024-01-01,09:07:00,C004,Diana Prince,P103,USB-C Monitor,S2,San Francisco,E03,Mike Ross,-2,300.0
+T00223,2023-03-19,09:43:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E03,Mike Ross,2,25.5
+T00224,2023-10-21,14:43:00,C005,Evan Wright,P101,Wireless Mouse,S3,Chicago,E01,John Doe,5,25.5
+T00225,2023-01-04,13:43:00,C002,Bob Johnson,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,5,100.0
+T00226,2023-06-28,13:43:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,4,1200.0
+T00227,2023-01-02,11:51:00,C003,Charlie Brown,P102,Mechanical Keyboard,S1,New York,E04,Rachel Green,4,
+T00228,2023-03-31,18:37:00,C005,Evan Wright,P101,Wireless Mouse,S3,chicago,E02,Jane Roe,3,25.5
+T00229,2023-04-27,12:33:00,C002,Bob Johnson,P102,Mechanical Keyboard,S1,New York,E02,Jane Roe,2,100.0
+T00230,2023-03-04,16:50:00,C001,Alice Smith,P102,Mechanical Keyboard,S1,New York,E01,John Doe,2,100.0
+T00231,2023-04-27,12:58:00,C001,Alice Smith,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,5,$100.0
+T00232,2023-01-12,10:23:00,C005,Evan Wright,P102,Mechanical Keyboard,S3,Chicago,E03,Mike Ross,1,100.0
+T00233,2023-06-26,16:30:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E03,Mike Ross,4,$25.5
+T00234,2023-08-07,12:17:00,C001,Alice Smith,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,5,100.0
+T00235,2023-07-26,11:04:00,C003,Charlie Brown,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,4,100.0
+T00236,2023-06-23,13:25:00,C001,Alice Smith,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,3,25.5
+T00237,2023-04-25,18:02:00,C005,Evan Wright,P102,Mechanical Keyboard,S3,Chicago,E02,Jane Roe,2,100.0
+T00238,2023-04-02,09:45:00,C005,Evan Wright,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,4,1200.0
+T00239,2023-04-04,16:50:00,C001,Alice Smith,P103,USB-C Monitor,S3,Chicago,E01,John Doe,1,300.0
+T00240,04/16/2023,14:04:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E03,Mike Ross,3,25.5
+T00241,2023-07-26,17:03:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E02,Jane Roe,5,1200.0
+T00242,25-11-2023,09:21:00,C003,  Charlie Brown ,P103,USB-C Monitor,S3,Chicago,E01,John Doe,2,300.0
+T00243,07/20/2023,13:56:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,2,25.5
+T00244,2023-10-21,14:38:00,C001,Alice Smith,P101,Wireless Mouse,S1,New York,E03,Mike Ross,1,25.5
+T00245,2023-04-05,16:08:00,C001,Alice Smith,P101,Wireless Mouse,S2,san francisco,E02,Jane Roe,1,$25.5
+T00246,2023-04-04,11:02:00,C004,Diana Prince,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,5,100.0
+T00247,2023-10-11,13:52:00,C001,Alice Smith,P101,Wireless Mouse,S2,san francisco,E04,Rachel Green,4,25.5
+T00248,10/20/2023,14:15:00,C001,Alice Smith,P103,USB-C Monitor,S2,San Francisco,E04,Rachel Green,4,300.0
+T00249,2023-12-10,12:08:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,2,1200.0
+T00250,2023-01-31,14:42:00,C001,Alice Smith,P102,Mechanical Keyboard,S2,San Francisco,E02,Jane Roe,3,100.0
+T00251,2023-01-23,10:50:00,C005,Evan Wright,P102,Mechanical Keyboard,S3,Chicago,E04,Rachel Green,two,100.0
+T00252,04/26/2023,15:16:00,C003,Charlie Brown,P100,Laptop Pro 15,S1,New York,E01,John Doe,4,1200.0
+T00253,2023-01-16,13:49:00,C004,Diana Prince,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,-4,100.0
+T00254,2023-02-24,09:42:00,C001,Alice Smith,P103,USB-C Monitor,S3,Chicago,E01,John Doe,2,300.0
+T00255,11-11-2023,16:52:00,C005,Evan Wright,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,1,$300.0
+T00256,2023-10-15,09:58:00,C001,Alice Smith,P100,Laptop Pro 15,S1,New York,E03,Mike Ross,5,$1200.0
+T00257,2023-01-28,13:19:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,4,100.0
+T00258,2023-11-06,10:36:00,C004,Diana Prince,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,2,1200.0
+T00259,2023-07-19,15:33:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,1,25.5
+T00260,2023-12-05,10:33:00,C004,Diana Prince,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,4,25.5
+T00261,2023-12-12,12:08:00,C001,Alice Smith,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,1,1200.0
+T00262,2023-05-05,18:53:00,C001,Alice Smith,P102,Mechanical Keyboard,S3,Chicago,E03,Mike Ross,1,$100.0
+T00263,2023-10-31,16:06:00,C004,Diana Prince,P101,Wireless Mouse,S1,New York,E03,Mike Ross,3,25.5
+T00264,2023-05-14,16:20:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,3,25.5
+T00265,2023-01-06,13:59:00,C003,Charlie Brown,P100,Laptop Pro 15,S1,New York,E02,Jane Roe,3,1200.0
+T00266,2023-06-17,12:51:00,C003,Charlie Brown,P103,USB-C Monitor,S3,Chicago,E03,Mike Ross,4,$300.0
+T00267,2023-01-02,16:48:00,C003,Charlie Brown,P103,USB-C Monitor,S2,San Francisco,E01,John Doe,4,$300.0
+T00268,2023-12-29,13:36:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E04,Rachel Green,5,300.0
+T00269,2023-06-08,09:56:00,C003,Charlie Brown,P102,Mechanical Keyboard,S2,San Francisco,E04,Rachel Green,3,100.0
+T00270,2023-02-04,14:23:00,C004,Diana Prince,P100,Laptop Pro 15,S2,San Francisco,E03,Mike Ross,1,1200.0
+T00271,2023-01-24,11:02:00,C002,Bob Johnson,P103,USB-C Monitor,S1,New York,E03,Mike Ross,1,300.0
+T00272,2023-01-01,11:40:00,C001,Alice Smith,P103,USB-C Monitor,S2,San Francisco,E03,Mike Ross,2,300.0
+T00273,2023-08-26,13:27:00,C004,Diana Prince,P100,Laptop Pro 15,S3,Chicago,E01,John Doe,1,1200.0
+T00274,2023-12-06,18:28:00,C003,Charlie Brown,P102,Mechanical Keyboard,S3,Chicago,E01,John Doe,4,100.0
+T00275,2023-12-26,13:15:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E01,John Doe,4,300.0
+T00276,2023-06-05,18:10:00,C001,Alice Smith,P103,USB-C Monitor,S1,New York,E02,Jane Roe,5,300.0
+T00277,2023-04-03,16:34:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,5,1200.0
+T00278,2023-03-25,14:17:00,C001,Alice Smith,P100,Laptop Pro 15,S3,Chicago,E03,Mike Ross,4,1200.0
+T00279,2023-11-07,11:41:00,C004,Diana Prince,P103,USB-C Monitor,S3,Chicago,E04,Rachel Green,1,300.0
+T00280,2023-02-07,14:09:00,C002,Bob Johnson,P100,Laptop Pro 15,S1,New York,E04,Rachel Green,1,1200.0
+T00281,2023-05-08,18:45:00,C005,Evan Wright,P101,Wireless Mouse,S1,New York,E01,John Doe,1,25.5
+T00282,2023-08-16,14:17:00,C002,Bob Johnson,P103,USB-C Monitor,S1,New York,E01,John Doe,5,300.0
+T00283,2023-09-26,12:03:00,C001,Alice Smith,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,5,$25.5
+T00284,2023-07-21,17:42:00,C003,Charlie Brown,P101,Wireless Mouse,S3,Chicago,E01,John Doe,1,25.5
+T00285,2023-12-21,11:23:00,C002,Bob Johnson,P101,Wireless Mouse,S3,Chicago,E02,Jane Roe,1,25.5
+T00286,07/22/2023,15:44:00,C004,Diana Prince,P103,USB-C Monitor,S2,San Francisco,E01,John Doe,4,300.0
+T00287,2023-04-29,10:28:00,C001,  Alice Smith ,P101,Wireless Mouse,S1,New York,E02,Jane Roe,1,25.5
+T00288,10-10-2023,16:21:00,C002,Bob Johnson,P100,Laptop Pro 15,S1,new york,E03,Mike Ross,-5,1200.0
+T00289,2023-06-23,13:25:00,C005,Evan Wright,P102,Mechanical Keyboard,S1,New York,E03,Mike Ross,2,100.0
+T00290,2023-11-22,12:59:00,C005,Evan Wright,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,5,25.5
+T00291,10/01/2023,09:30:00,C002,Bob Johnson,P101,Wireless Mouse,S1,New York,E04,Rachel Green,1,25.5
+T00292,2023-12-20,17:39:00,C003,Charlie Brown,P101,Wireless Mouse,S1,New York,E02,Jane Roe,3,25.5
+T00293,2023-09-11,09:20:00,C005,Evan Wright,P103,USB-C Monitor,S1,New York,E04,Rachel Green,2,$300.0
+T00294,2023-04-24,18:35:00,C001,  Alice Smith ,P101,Wireless Mouse,S2,San Francisco,E03,Mike Ross,4,$25.5
+T00295,07/12/2023,11:31:00,C005,Evan Wright,P102,Mechanical Keyboard,S2,San Francisco,E01,John Doe,4,100.0
+T00296,2023-01-19,11:20:00,C004,Diana Prince,P101,Wireless Mouse,S2,San Francisco,E02,Jane Roe,3,$25.5
+T00297,2023-04-16,13:10:00,C002,Bob Johnson,P101,Wireless Mouse,S1,new york,E04,Rachel Green,5,25.5
+T00298,01/10/2023,10:22:00,C005,Evan Wright,P103,USB-C Monitor,S3,Chicago,E02,Jane Roe,3,300.0
+T00299,2023-12-24,11:38:00,C005,Evan Wright,P100,Laptop Pro 15,S3,Chicago,E04,Rachel Green,3,1200.0
+T00300,2023-11-24,10:51:00,C001,  Alice Smith ,P101,Wireless Mouse,S3,Chicago,E04,Rachel Green,5,$25.5
