@@ -1,0 +1,6 @@
+The suggested reading below is not mandatory; however, it can extend your understanding of the topics discussed during the session.
+*  [Gartner's Top 10 Tech Trends 2026: Domain - Specific Language Models is the rising star](https://www.beinformed.com/gartners-top-10-tech-trends-2026-domain-specific-language-models-is-the-rising-star/)
+*  [Randstad. Your Ultimate Guide to Trending Finance Skills in 2026](https://www.randstad.ca/job-seeker/skills/top-skills-finance-2026/)
+*  [Thomson Reuters. The Future of Professionals 2025: Mind the Gap](https://www.thomsonreuters.com/en-us/posts/technology/future-of-professionals-2025/#:~:text=Those%20professionals%20who%20fail%20to,AI%2Denabled%20professionals%20certainly%20will.)
+*  [World Economic Forum. The Future of Jobs: 6 Decision-Makers on AI and Talent Strategies](https://www.weforum.org/stories/2026/01/how-ai-will-affect-work-in-different-industries/#:~:text=%E2%80%9CUltimately%2C%20the%20future%20of%20jobs,policy%2C%20and%20labour%20markets.%E2%80%9Dhttps://www.weforum.org/stories/2026/01/how-ai-will-affect-work-in-different-industries/#:~:text=%E2%80%9CUltimately%2C%20the%20future%20of%20jobs,policy%2C%20and%20labour%20markets.%E2%80%9D)
+*  [Start, Stop, Continue explained: Examples and feedback tips](https://www.tempo.io/blog/start-stop-continue)
